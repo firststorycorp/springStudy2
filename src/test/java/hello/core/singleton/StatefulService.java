@@ -16,4 +16,6 @@ public class StatefulService {
 //    public int getPrice() {
 //        return this.price;
 //    }
+
+
 }
